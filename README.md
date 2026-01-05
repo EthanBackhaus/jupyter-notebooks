@@ -30,7 +30,7 @@ The analysis explores:
 ✓ Professional visualizations and insights  
 
 ## Files in This Repository
-- `movie_box_office_analysis.ipynb` - Main Jupyter Notebook with complete analysis
+- `Wrangling group project12_12.ipynb` - Main Jupyter Notebook with complete analysis
 - `README.md` - Project documentation (this file)
 
 ## How to Use
@@ -39,8 +39,8 @@ The analysis explores:
 3. Open the Jupyter Notebook: `jupyter notebook movie_box_office_analysis.ipynb`
 4. Run all cells to see the data collection, cleaning, and analysis
 
-## Author
-Ethan Backhaus
+## Authors
+Ethan Backhaus, Adalyn Goodwin, James Williams, Andy Kram,
 
 ## License
 Open source - feel free to use and modify for educational purposes
